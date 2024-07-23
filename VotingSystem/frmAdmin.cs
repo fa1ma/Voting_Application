@@ -179,7 +179,7 @@ namespace VotingSystem
             frmchart.Show();
         }
 
-        //fatma.kisa@email.com
+        
 
 
 
